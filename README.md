@@ -26,6 +26,9 @@ NFC LockGuard's README
 
 ## 기술 스택
 
+<details>
+  <summary>📌 클릭해서 자세한 내용 보기</summary>
+
 개발 환경
 
 <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge">
@@ -54,6 +57,7 @@ NFC LockGuard's README
 <img src="https://img.shields.io/badge/RSA-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/AES--GCM-000000?style=for-the-badge">
 
+</details>
 
 ## 시스템 아키텍처
 <img width="1363" height="568" alt="image" src="https://github.com/user-attachments/assets/49363eb0-7d82-4e9d-888a-c61e348a7bb0" />
